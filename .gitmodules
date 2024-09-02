@@ -1,0 +1,9 @@
+[submodule "githubs/SLS4All.Compact.InstallScripts"]
+	path = githubs/SLS4All.Compact.InstallScripts
+	url = https://github.com/sls4all/SLS4All.Compact.InstallScripts.git
+[submodule "githubs/SLS4All.Compact"]
+	path = githubs/SLS4All.Compact
+	url = https://github.com/sls4all/SLS4All.Compact.git
+[submodule "githubs/SLS4All.Compact.Klipper"]
+	path = githubs/SLS4All.Compact.Klipper
+	url = https://github.com/sls4all/SLS4All.Compact.Klipper.git
