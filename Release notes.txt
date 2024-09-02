@@ -1,0 +1,24 @@
+*******************************************************************************************************************************
+* Project:	  SLS4All: DYI SLS 3D Printer        									      *
+* Subject:        3D model in the STEP format       									      *
+* File name: 	  InovaMK1_v1_00_1829_07062024.STEP 									      *
+* Release date:	  7 June 2024			    									      *
+* Licence:	  Use, copying, modification and conveying of the 3D model is under the Licence Agreement as described	      *
+* 		  in the LA_SLS4All_EN_FINAL_07062024.pdf. It is located in ZIP archive together with the dowloaded 3D model. *
+******************************************************************************************************************************* 
+
+Purpose of the release:
+======================
+Initial release of the 3D model.
+
+Main changes, updates:
+=====================
+N/A
+
+Bug fixes:
+==========
+N/A
+
+Other notes:
+============
+GalvoHolder_DT40_v6 not in its final stage, under review.
